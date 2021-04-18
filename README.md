@@ -26,15 +26,15 @@ Aliados a algumas qualidades pessoais:
 
 [![Linkedin: Renata](https://img.shields.io/badge/-vlarysc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vlarysc/)](https://www.linkedin.com/in/vlarysc/)
 
-[![GitHub vlarysc](https://img.shields.io/github/followers/vlarysc?label=follow&style=social)](https://github.com/vlarysc)
+[![GitHub vlarysc](https://img.shields.io/github/followers/vlarysc?label=follow&style=social)](https://github.com/vlarysc) 
 
 # Minhas Tecnologias
 
 [![html](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg)](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg) [![js](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg)](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg) [![vue](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg)](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg) [![npm](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg)](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg) [![bash](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg)](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg) [![vscode](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg)](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg)
 
 <p align="center">
-    <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlarysc&layout=compact&hide=html&hide_border=true" alt="vlarysc" />
-    <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api?username=vlarysc&show_icons=true&hide_border=true" alt="vlarysc" /></p>
+    <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenataP81&layout=compact&hide=html&hide_border=true" alt="RenataP81" />
+    <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api?username=RenataP81&show_icons=true&hide_border=true" alt="RenataP81" /></p>
 
 <div>
     <img align="center" width="150%" src="https://raw.githubusercontent.com/vlarysc/vlarysc/f2045a28a8eac6f85ce4ff809312cdeaa0c3eaf3/assets/marquee.svg" alt="fullstack developer animated image"/>
