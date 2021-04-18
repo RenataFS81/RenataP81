@@ -24,7 +24,7 @@ Aliados a algumas qualidades pessoais:
 
 
 
-[![Linkedin: Renata](https://img.shields.io/badge/-vlarysc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vlarysc/)](https://www.linkedin.com/in/vlarysc/)
+[![Linkedin: RenataP81](https://img.shields.io/badge/-renataP81-blue?style=flat-square&logo=Linkedin&logoColor=wRenataP81ink=https://www.linkedin.com/in/renRenataP81/)](https://www.linkedin.com/in/renataP81/)
 
 [![GitHub RenataP81](https://img.shields.io/github/followers/RenataP81?label=follow&style=social)](https://github.com/RenataP81) 
 
