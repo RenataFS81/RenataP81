@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+<div>
+    <img align="left" width="20%" src="assets/procurando.png" alt="fullstack developer animated image"/>
+<div>
