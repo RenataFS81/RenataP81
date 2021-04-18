@@ -19,12 +19,11 @@ Aliados a algumas qualidades pessoais:
 - Aprendizado constante
 - Boa habilidade de trabalho em equipe
 - Experiência em receber e dar feedbacks
-- Boa organização e gerenciamento
 - Metodologias Ágeis, principalmente Scrum
 
 
 
-[![Linkedin: RenataP81](https://img.shields.io/badge/-renataP81-blue?style=flat-square&logo=Linkedin&logoColor=wRenataP81ink=https://www.linkedin.com/in/renRenataP81/)](https://www.linkedin.com/in/renataP81/)
+[![Linkedin: RenataP81](https://img.shields.io/badge/-renataP81-blue?style=flat-square&logo=Linkedin&logoColor=wRenataP81ink=https://www.linkedin.com/in/renRenataP81/)](https://www.linkedin.com/in/RenataP81/)
 
 [![GitHub RenataP81](https://img.shields.io/github/followers/RenataP81?label=follow&style=social)](https://github.com/RenataP81) 
 
