@@ -1,9 +1,9 @@
 <div>
     <img align="left" width="20%" src="ativos/topo.png" alt="fullstack developer animated image"/>
 <div>
-    <img align="right" width="50%" src="https://media.giphy.com/media/tRsxEJFG0sxUiwD7O9/giphy.gif" alt="fullstack developer animated image"/>
 
 <div>
+    <img align="right" width="50%" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" alt="image"/>
 
 # &#128187; Introdução 
 
