@@ -29,7 +29,7 @@ Aliados a algumas qualidades pessoais:
 
 # Minhas Tecnologias
 
-[![html](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg)](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg) [![js](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg)](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg) [![vscode](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg)](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg)
+[![html](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg)](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg) [![js](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg)](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg) 
 
 <p align="center">
     <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenataP81&layout=compact&hide=html&hide_border=true" alt="RenataP81" />
